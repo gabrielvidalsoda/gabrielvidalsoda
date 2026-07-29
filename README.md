@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Gabriel Vidal 👋</h1>
 
 <p align="center">
-  <b>Business Analyst · Quality Assurance · Product</b><br/>
-  <i>Bridging business needs and engineering through testing, requirements, and delivery</i>
+  <b>Senior Product Manager</b><br/>
+  <i>I help teams turn messy problems into shipped products — from discovery to delivery.</i>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-**Business Analyst / Quality Assurance at KIS Solutions** — working with multinational clients and multicultural teams.
+**Senior Product Manager at KIS Solutions** — working with multinational clients and multicultural teams.
 
 I have a background in **product management**, **startup acceleration**, and **business analysis**, with hands-on experience in functional and automated testing, requirements refinement, and SQL-driven reporting. I enjoy building side projects on GitHub and translating client needs into clear specs for development and QA teams.
 
